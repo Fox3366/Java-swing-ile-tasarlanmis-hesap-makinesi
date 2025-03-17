@@ -3,7 +3,7 @@ Java swing kutuphanesi kullanarak hazirlanmis hesap makinesi .jar dosyası ve .e
 
 Projenin amacı küçük çaplı java swing kullanımını pekiştirmektir.
 
-Java üzerinden yazılmış 4 işlem yapabilen üstüne numerik tuş takımı bulunan basit bir hesap makinesi.
+Java üzerinden yazılmış 4 işlem yapabilen üstünde numerik tuş takımı bulunan basit bir hesap makinesi.
 
 Kodlar önce javada yazılmış sonrasında .jar dosyasına dönüştürülmüş ve de ardından launch4j ile .exe çalıştırılabilir dosya biçime getirilmiştir.
 
